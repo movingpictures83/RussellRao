@@ -1,2 +1,0 @@
-Prefix plugins/RussellRao/example/
-Plugin RussellRao inputfile table.qza outputfile beta_diversity.qza
